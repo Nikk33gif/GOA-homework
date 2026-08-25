@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> ნიკო</title>
+</head>
+<body>
+    <h1> ნიკოს რესტორანი</h1>
+    <h2> საჭმლის მენიუ </h2>
+    <p> მწვადი -1.50ლ</p>
+    <p> ხინკალი - 2ლ</p>
+    <p> შაურმა - 4ლ</p>
+    img serc= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQQ98EROt0RZCcYXzs8eiMzpFEunsmNrR1g&s
+    img serc= https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Shashlik.jpg/1280px-Shashlik.jpg
+    img serc= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTts5zdYx-F9Ne4CtG-gU7P3uFYgqISgRHKMg&s
+</body>
+</html>
